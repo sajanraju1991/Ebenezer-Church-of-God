@@ -2,10 +2,10 @@
 
 
 const verses = [
-    "John 3:16 - For God so loved the world that He gave His one and only Son.",
-    "Philippians 4:13 - I can do all things through Christ who strengthens me.",
-    "Psalm 23:1 - The Lord is my shepherd; I shall not want.",
-    "Proverbs 3:5 - Trust in the Lord with all your heart and lean not on your own understanding."
+    "But if the Spirit of Him who raised Jesus from the dead dwells in you, He who raised Christ from the dead will also give life to your mortal bodies through His Spirit who dwells in you. Romans-8:11 NKJV",
+    "But if the Spirit of Him who raised Jesus from the dead dwells in you, He who raised Christ from the dead will also give life to your mortal bodies through His Spirit who dwells in you. Romans-8:11 NKJV",
+    "But if the Spirit of Him who raised Jesus from the dead dwells in you, He who raised Christ from the dead will also give life to your mortal bodies through His Spirit who dwells in you. Romans-8:11 NKJV",
+    "But if the Spirit of Him who raised Jesus from the dead dwells in you, He who raised Christ from the dead will also give life to your mortal bodies through His Spirit who dwells in you. Romans-8:11 NKJV",
 ];
 
 function displayVerse() {
